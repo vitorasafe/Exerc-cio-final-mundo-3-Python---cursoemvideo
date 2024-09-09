@@ -4,3 +4,5 @@ Foram 120 horas de curso com o professor Gustavo Guanabara, o qual sou muito gra
 
 curso finalizado dia 03/08/2024
 
+<a href="sistema.py">Clique aqui para ver o código Python</a>
+
